@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cerastano.github.io/sitemap.html.gz
+Sitemap: https://cerastano.github.io/app/sitemap.html.gz
+Sitemap: https://cerastano.github.io/assets/sitemap.html.gz
+Sitemap: https://cerastano.github.io/css/sitemap.html.gz
+Sitemap: https://cerastano.github.io/includes/sitemap.html.gz
+Sitemap: https://cerastano.github.io/item/sitemap.html.gz
+Sitemap: https://cerastano.github.io/src/sitemap.html.gz
